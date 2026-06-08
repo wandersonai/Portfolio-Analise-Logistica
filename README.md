@@ -6,7 +6,7 @@ Este repositório reúne projetos desenvolvidos durante meus estudos em Excel, G
 
 ### 📦 Projeto 01 - Análise de Transportadoras
 - Tabelas Dinâmicas
-- Indicadores Logísticos
+- Indicador Logísticos
 - Custos de Frete
 
 ### 📈 Projeto 02 - Dashboard Logístico
