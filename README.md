@@ -15,7 +15,7 @@ Este repositório reúne projetos desenvolvidos durante meus estudos em Excel, G
 - Segmentação de Dados
 
 ### 📦 Projeto 03 - Controle de Estoque
-- Entrada e Saída
+- Entrada e Saida
 - Giro de Estoque
 - Produtos Críticos
 
