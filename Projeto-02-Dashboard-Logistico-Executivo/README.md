@@ -88,6 +88,9 @@ Dashboard-Logistico-Executivo/
 - Análise Logística
 
 ---
+## 🖼️ Prévia do Dashboard
+
+![Dashboard Logístico](dashboard-logistico-executivo.png)
 
 ## 👨‍💻 Autor
 
