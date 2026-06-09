@@ -71,7 +71,7 @@ Comparação entre transportadoras e o status das entregas, permitindo identific
 
 ---
 ![Analise de transportadoras](imagens/{7018E2B3-92E2-46B3-94E3-2BFA19B10947}.png)
-![Analise de transportadoras](imagens/)
+![Analise de transportadoras](imagens/{7018E2B3-92E2-46B3-94E3-2BFA19B10947}.png)
 ## 🎓 Aprendizados
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos fundamentais de análise de dados voltados para logística, utilizando Tabelas Dinâmicas para resumir informações e gerar indicadores relevantes para gestão operacional.
