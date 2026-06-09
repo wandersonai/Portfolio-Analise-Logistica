@@ -80,7 +80,7 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos fundamentais d
 
 ## 👨‍💻 Autor
 
-**Anderson**
+**Wnderson Oliveira Carneiro**
 
 Estudante de Gestão da Tecnologia da Informação com foco em **Análise de Dados, Business Intelligence e Logística**.
 
