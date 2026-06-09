@@ -90,7 +90,7 @@ Dashboard-Logistico-Executivo/
 ---
 ## 🖼️ Prévia do Dashboard
 
-![Dashboard Logístico](imagens/{8758E0B0-7214-48BD-B716-0681D34C1843}.png)
+![Dashboard Logístico](imagens/{0BDF2880-071F-4F52-8948-0DC2024E27BE}.png)
 
 ## 👨‍💻 Autor
 
