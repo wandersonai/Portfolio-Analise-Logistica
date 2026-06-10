@@ -66,17 +66,8 @@ Todos os gráficos foram construídos utilizando **Google Sheets** e **Tabelas D
 ---
 
 ## 📷 Dashboard
-
-> Insira aqui uma imagem do dashboard.
-
-Exemplo:
-
-```markdown
 ![Dashboard](imagens/{5BE83961-754E-483C-9C64-DEE1450F09C4}.png)
 ````
-
----
-
 ## 👨‍💻 Autor
 
 **Wanderson Oliveira Carneiro**
@@ -86,6 +77,3 @@ Profissional de Logística | Controle de Estoque e Inventário | Estudante de Ge
 ---
 
 ⭐ Projeto desenvolvido para compor meu portfólio de Análise Logística e Dados no GitHub e LinkedIn.
-
-```
-```
