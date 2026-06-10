@@ -1,4 +1,4 @@
-````markdown
+
 # 📦 Dashboard de Controle de Estoque
 
 Projeto desenvolvido utilizando **Google Sheets** para análise e controle de estoque por meio de **KPIs, Tabelas Dinâmicas e Dashboard Interativo**.
