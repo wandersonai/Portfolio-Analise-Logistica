@@ -72,7 +72,7 @@ Todos os gráficos foram construídos utilizando **Google Sheets** e **Tabelas D
 Exemplo:
 
 ```markdown
-![Dashboard](imagem/dashboard-controle-estoque.png)
+![Dashboard](imagens/{5BE83961-754E-483C-9C64-DEE1450F09C4}.png)
 ````
 
 ---
