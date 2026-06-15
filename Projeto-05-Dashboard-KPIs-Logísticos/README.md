@@ -75,9 +75,9 @@ Todos os gráficos são alimentados por **Tabelas Dinâmicas**, proporcionando a
 
 Exemplo:
 
-```
-![Dashboard](imagen/{E9464D22-97DA-4882-AB9B-DCCF5305991E.png})
-```
+![Dashboard](imagen/{E9464D22-97DA-4882-AB9B-DCCF5305991E}.png)
+
+...
 
 ---
 
