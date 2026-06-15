@@ -76,7 +76,7 @@ Todos os gráficos são alimentados por **Tabelas Dinâmicas**, proporcionando a
 Exemplo:
 
 ```
-📷 imagem/{E9464D22-97DA-4882-AB9B-DCCF5305991E}.png
+📷 (imagem/{E9464D22-97DA-4882-AB9B-DCCF5305991E}.png)
 ```
 
 ---
