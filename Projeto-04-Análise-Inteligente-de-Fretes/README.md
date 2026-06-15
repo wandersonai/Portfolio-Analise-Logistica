@@ -75,7 +75,6 @@ Adicione uma captura de tela do dashboard nesta seção.
 
 Exemplo:
 
-```markdown
 ![Dashboard](imagen/{C8DFFF53-95AF-4A50-85C8-0F64E7BBB011}.png)
 ```
 
