@@ -78,20 +78,6 @@ Exemplo:
 ![Dashboard](imagen/{C8DFFF53-95AF-4A50-85C8-0F64E7BBB011}.png)
 ```
 
----
-
-## 📁 Estrutura do Projeto
-
-```
-📂 Analise-Inteligente-de-Fretes
- ├── Dados.xlsx
- ├── Dashboard
- ├── Tabelas Dinâmicas
- ├── README.md
- └── Imagens
-```
-
----
 
 ## 👨‍💻 Autor
 
