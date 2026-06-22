@@ -117,8 +117,8 @@ AVERAGE('Dados Log'[Valor_Frete])
 
 Adicione a imagem do dashboard na pasta **Imagens** e utilize:
 
-```markdown
-![Dashboard Logístico Power BI](Imagens/dashboard-powerbi.png)
+
+![Dashboard Logístico Power BI](imagen/{83B7F6B7-6D06-4CED-96A3-B16C5BE3E80A}.png)
 ```
 
 ---
