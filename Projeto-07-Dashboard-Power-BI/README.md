@@ -67,20 +67,6 @@ Filtros interativos para:
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```text
-Projeto07-PowerBI/
-│
-├── Base_Dados.xlsx
-├── Dashboard_Logistico.pbix
-├── Imagens/
-│   └── dashboard-powerbi.png
-└── README.md
-```
-
----
-
 ## 🔄 Etapas do Projeto
 
 ### 1️⃣ Tratamento dos Dados
