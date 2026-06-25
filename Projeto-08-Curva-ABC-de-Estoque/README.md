@@ -75,19 +75,6 @@ Exibe o percentual acumulado dos produtos ordenados por importância financeira.
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```text
-Projeto-08-Curva-ABC-de-Estoque/
-│
-├── Dados
-├── Tabela Dinâmica
-├── Dashboard
-└── README.md
-```
-
----
-
 ## 🚀 Principais Aprendizados
 
 - Gestão de Estoques
@@ -104,13 +91,9 @@ Projeto-08-Curva-ABC-de-Estoque/
 
 Adicione uma captura da dashboard nesta seção:
 
-```markdown
-![Dashboard Curva ABC](dashboard-curva-abc.png)
-```
+![Dashboard Curva ABC](Imagen/{9D6BF471-D0D3-431C-80EE-FDDC89A240AF}.png)
 
----
-
-## 💡 Insights Obtidos
+💡 Insights Obtidos
 
 - 60% dos produtos foram classificados como Classe A.
 - Os produtos Classe A concentram a maior parte do valor do estoque.
