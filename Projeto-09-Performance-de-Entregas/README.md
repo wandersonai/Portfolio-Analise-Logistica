@@ -123,7 +123,7 @@ Gráfico de linha mostrando a evolução dos atrasos ao longo do período analis
 Adicionar aqui a imagem do dashboard:
 
 
-![Dashboard OTIF]()
+![Dashboard OTIF](Imagen/{81C1CE59-ECB1-4DDA-BB39-052E3EDF96F8}.png)
 
 ---
 
