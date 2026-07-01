@@ -108,7 +108,8 @@ Este projeto demonstra a criação de uma solução completa de Business Intelli
 
 > Adicione aqui uma captura de tela do Dashboard desenvolvido.
 
-/Imagens/dashboard.png
+/Imagens/<img width="970" height="543" alt="{7D7968FE-C7BA-4D31-9AF0-1724ABB388D5}" src="https://github.com/user-attachments/assets/8ac89bbb-338b-4509-9875-3c41484dcf56" />
+
 
 # 📚 Aprendizados
 
