@@ -97,11 +97,13 @@ O objetivo é demonstrar minhas habilidades na transformação de dados em infor
 
 ---
 
-## 📊 Projeto 10 – Dashboard Executivo Integrado
+## 📊 📊 Projeto 10 – Gestão Inteligente de Inventário
+
+- Banco de Dados MySQL
+- Consultas SQL Avançadas
 - Power BI
-- SQL
-- Excel
-- Indicadores Logísticos
+- Indicadores Estratégicos (KPIs)
+- Dashboard Executivo
 - Business Intelligence
 
 ---
