@@ -97,7 +97,7 @@ O objetivo é demonstrar minhas habilidades na transformação de dados em infor
 
 ---
 
-## 📊 📊 Projeto 10 – Gestão Inteligente de Inventário
+## 📊 Projeto 10 – Gestão Inteligente de Inventário
 
 - Banco de Dados MySQL
 - Consultas SQL Avançadas
